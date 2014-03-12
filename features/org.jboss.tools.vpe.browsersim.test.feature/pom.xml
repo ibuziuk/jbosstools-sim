@@ -8,6 +8,6 @@
 		<version>3.5.100-SNAPSHOT</version>
 	</parent>
 	<groupId>org.jboss.tools.sim.features</groupId>
-	<artifactId>org.jboss.tools.vpe.cordovasim.feature</artifactId> 
+	<artifactId>org.jboss.tools.vpe.browsersim.test.feature</artifactId> 
 	<packaging>eclipse-feature</packaging>
 </project>
