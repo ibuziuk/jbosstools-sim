@@ -2,7 +2,11 @@
 
 ## Summary
 
-TBD. 
+JBoss Tools Simulation contains tools for mobile testing and development.  
+
+JBoss Tools Simulation comes in two pieces: _BrowserSim_ and _CordovaSim_.  
+[BrowserSim](https://community.jboss.org/wiki/BrowserSimFAQ) is a browser simulator which primarily is intended for having a quick, easy and multi-platform way of testing if a webapp / website will be rendered correctly on a mobile device. Browsersim makes it easy to test basic layout issues without having to install a platform specific emulator or manually using a phone.  
+CordovaSim is a [Ripple](https://github.com/apache/incubator-ripple) based tool for hybrid mobile application development and testing. CordovaSim mainly targets correct simulation of the [JBoss Aerogear Tools](https://github.com/jbosstools/jbosstools-aerogear) projects.
 
 ## Install
 
