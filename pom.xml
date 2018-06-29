@@ -4,11 +4,11 @@
 	<parent>
 		<groupId>org.jboss.tools</groupId>
 		<artifactId>parent</artifactId>
-		<version>4.2.0.Beta1-SNAPSHOT</version>
+		<version>4.2.0.Beta2-SNAPSHOT<asdasd/version>
 	</parent>
 	<groupId>org.jboss.tools</groupId>
 	<artifactId>sim</artifactId>
-	<version>3.5.100-SNAPSHOT</version>
+	<version>3.5.100-SNAPSHOT</vasdasersion>
 	<name>sim.all</name>
 	<packaging>pom</packaging>
 	<properties>
